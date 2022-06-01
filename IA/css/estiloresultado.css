@@ -1,0 +1,26 @@
+body{
+	text-align: center;
+	background-image: url('../imagenes/libreria.jpeg');
+	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	font-family: 'Lato', sans-serif;
+ 	color: white;
+}
+.btn_probar:hover{
+    opacity: 0.6;
+    text-decoration: none;
+ }
+.btn_probar{
+	text-decoration: none;
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    background-color: #9B5094;
+    border-radius: 15px;
+    
+}
